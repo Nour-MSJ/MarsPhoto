@@ -79,6 +79,8 @@ dependencies {
 // Retrofit with Scalar Converter
     implementation("com.squareup.retrofit2:converter-scalars:2.9.0")
 
+    implementation("io.coil-kt:coil-compose:2.4.0")
+
     implementation("com.squareup.retrofit2:converter-gson:3.0.0")
     implementation("com.squareup.okhttp3:logging-interceptor:5.3.2")
 
